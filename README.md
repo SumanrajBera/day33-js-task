@@ -30,3 +30,6 @@ Start with ₹1000 balance. Ask withdrawal amount 3 times.
 If enough balance → deduct
 Else → print “Insufficient balance”
 Displaying ques.txt.
+
+## Summaray
+All the programs are in [script.js](script.js) file
